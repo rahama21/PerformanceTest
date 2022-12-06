@@ -130,4 +130,6 @@ Loop Count: 1
     g: jtl results file
 
     o: path to output folder
+    
+  <img width="545" alt="Screenshot 2022-12-06 221436" src="https://user-images.githubusercontent.com/32101980/205991480-c7b1fa83-247a-4c00-8053-0873fd4c732f.png">
 
