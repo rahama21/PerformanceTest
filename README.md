@@ -21,11 +21,11 @@ Server can handle almost concurrent 2700 API call with almost zero (0) error rat
 
 
 # Installation :   
- Java:https://www.oracle.com/java/technologies/downloads/
+ Java:         https://www.oracle.com/java/technologies/downloads/
       
- JMeter:https://jmeter.apache.org/download_jmeter.cgi                     
+ JMeter:      https://jmeter.apache.org/download_jmeter.cgi                     
 
-Blazmeter:https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi?hl=en
+Blazmeter:    https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi?hl=en
 
         
 
