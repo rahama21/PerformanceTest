@@ -55,7 +55,7 @@ Blazmeter:https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mb
 
 Name: Practice1
 
-Number of Threads (users): 50 TO 500
+Number of Threads (users): 50 to 500
 
 Ramp-Up Period (in seconds): 10
 
