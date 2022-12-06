@@ -117,5 +117,17 @@ Loop Count: 1
     JMeter should be initialized in non-GUI mode.
     Make a report folder in the bin folder.
     Run Command in jmeter\bin folder.
+    
+# Make Jtl file
+    n: non GUI mode
+    t: test plan to execute
+    l: output file with results
+    
+    jmeter -n -t  Practice1_50.jmx -l OPENCART_T1.jtl
+# Make html file
+    jmeter -g report\OPENCART_T1.jtl -o OPENCART_T1.html
+  
+    g: jtl results file
 
+    o: path to output folder
 
