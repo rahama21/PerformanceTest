@@ -8,16 +8,16 @@ This document explains how to run a performance test with JMeter .
 
 I’ve completed performance test on frequently used API for test App.
 
-50 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is 309.56 And Total Concurrent API requested: 300
+50 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is 309.56 And Total Concurrent API requested: 300.
 
 500 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is 1449.09 And Total Concurrent API requested: 3000.
 
-While executed 500 concurrent request found 6 request Non HTTP response code and error rate is 0.20%
+While executed 500 concurrent request found 6 request Non HTTP response code and error rate is 0.20%.
 
 
 # Summary
 
-Server can handle almost concurrent 2700 API call with almost zero (0) error rate
+Server can handle almost concurrent 2700 API call with almost zero (0) error rate.
 
 
 # Installation :   
@@ -31,7 +31,7 @@ Blazmeter:https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mb
 
 # Prerequisites
 1.  JMeter 5.5,Java 19 are supported.
-2.  16 GB ram is good
+2.  16 GB ram is good.
 
 
 
