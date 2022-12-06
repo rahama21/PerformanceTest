@@ -145,5 +145,15 @@ Number of Threads 50 ; Ramp-Up Period 10s
 
 <img width="736" alt="Screenshot 2022-12-07 002826" src="https://user-images.githubusercontent.com/32101980/205992457-03557c7e-bb49-4a99-99d2-ea6548794518.png">
 
+## requestsummary
+
+<img width="732" alt="Screenshot 2022-12-06 213157" src="https://user-images.githubusercontent.com/32101980/205993092-0d6e40c2-3285-48a5-bf05-a0283ac98da4.png">
+## responsetime
+<img width="721" alt="Screenshot 2022-12-06 213455" src="https://user-images.githubusercontent.com/32101980/205993119-0972c1a0-994c-4172-9ef3-fad0e989bdb1.png">
+
+## errors
+<img width="710" alt="Screenshot 2022-12-06 214115" src="https://user-images.githubusercontent.com/32101980/205993145-d99658c4-d6a5-49d3-a6c0-277ae30e2af9.png">
+
+
 
 
