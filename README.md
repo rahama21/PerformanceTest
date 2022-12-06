@@ -45,13 +45,13 @@ Blazmeter:https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mb
  
  3.HTTP Request :Sampler
                 
- 4. Summary Report: Listener
+ 4.Summary Report: Listener
 
 
 # Testplan:
-        Testplan > Add > Threads (Users) > 
-        Thread Group (this might vary dependent on
+        Testplan > Add > Threads (Users) >  Thread Group (this might vary dependent on
         the jMeter version you are using)
+       
 
 Name: Practice1
 
@@ -61,30 +61,24 @@ Ramp-Up Period (in seconds): 10
 
 Loop Count: 1
 
-      1.   The general setting for the tests execution, 
-          such as whether Thread Groups will run
-         simultaneously or sequentially, is specified
+    
+    1.   The general setting for the tests execution, such as whether Thread Groups will run   simultaneously or sequentially, is specified
           in the item  called Test Plan.
+         
 
-    2.  All HTTP Requests will use some default 
-        settings from the HTTP Request, 
-        such as the Server IP, Port Number, and 
-        Content-Encoding.
+    2.  All HTTP Requests will use some default  settings from the HTTP Request,such as the Server IP, Port Number, and  Content-Encoding.
+       
+    3.  Each Thread Group specifies how the HTTP Requests should be carried out.To determine how many concurrent "users" will be simulated, 
+         one must first know the     number of threads. The number of actions  each "user" will perform is determined  by the loop count.
+        
+    4. The HTTP Header Manager, which allows you  to provide the Request Headers that will be utilized by the upcoming HTTP Requests, 
+        is the first item in Thread  Groups  
+       
 
-      3.   Each Thread Group specifies how
-        the HTTP Requests should be carried out.
-        To determine how many concurrent "users" 
-        will be simulated, one must first know the
-         number of threads. The number of actions
-        each "user" will perform is determined 
-        by the loop count.
-
-     4. The HTTP Header Manager, which allows you 
-        to provide the Request Headers that will
-         be utilized by the upcoming HTTP Requests,
-          is the first item in Thread Groups
+     
 # Website link:
-https://reqres.in/
+
+# https://reqres.in/
 
 
 # List of APIS
