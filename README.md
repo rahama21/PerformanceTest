@@ -103,3 +103,6 @@ Locate the "Practice1.jmx" file contained on this repo
 
 The Test Plan will be loaded
 
+<img width="951" alt="Screenshot 2022-12-06 235803" src="https://user-images.githubusercontent.com/32101980/205987123-4c7eef14-6fc8-493d-9222-8ce22683d605.png">
+
+
