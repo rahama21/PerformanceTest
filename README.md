@@ -173,7 +173,7 @@ Number of Threads 500 ; Ramp-Up Period 10s
 <img width="710" alt="Screenshot 2022-12-06 214115" src="https://user-images.githubusercontent.com/32101980/205993145-d99658c4-d6a5-49d3-a6c0-277ae30e2af9.png">
 
 
-Spike Testing
+# Spike Testing
 Spike testing is a type of performance testing where the demand for an application is suddenly and drastically increased or decreased. Spike testing's objective is to ascertain how a software program will behave under highly variable traffic conditions.
 
 
