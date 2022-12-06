@@ -106,6 +106,12 @@ Loop Count: 1
 <img width="951" alt="Screenshot 2022-12-06 235803" src="https://user-images.githubusercontent.com/32101980/205987123-4c7eef14-6fc8-493d-9222-8ce22683d605.png">
 
 
+<img width="953" alt="Screenshot 2022-12-06 221328" src="https://user-images.githubusercontent.com/32101980/205988220-f4b02dba-ba9a-47b9-bd88-c691a492481d.png">
+
+
+<img width="954" alt="Screenshot 2022-12-06 221256" src="https://user-images.githubusercontent.com/32101980/205988269-77cc682c-4baf-4a87-b24b-eb0b768ba7a2.png">
+
+
 
 # Test execution (Terminal)
     JMeter should be initialized in non-GUI mode.
