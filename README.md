@@ -162,4 +162,20 @@ Number of Threads 500 ; Ramp-Up Period 10s
 
 
 
+# Stress Testing
+  Stress Testing is a type of software testing that evaluates how the software responds under extreme conditions. It verifies how robust a system will be, and its        response capabilities and error handling when it is subjected to conditions where its normal functioning can be compromised.
+  
+## requestsummary
+
+<img width="732" alt="Screenshot 2022-12-06 213157" src="https://user-images.githubusercontent.com/32101980/205993092-0d6e40c2-3285-48a5-bf05-a0283ac98da4.png">
+
+## errors
+<img width="710" alt="Screenshot 2022-12-06 214115" src="https://user-images.githubusercontent.com/32101980/205993145-d99658c4-d6a5-49d3-a6c0-277ae30e2af9.png">
+
+
+  
+  
+
+
+
 
