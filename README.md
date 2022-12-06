@@ -94,3 +94,12 @@ Loop Count: 1
 
 6.https://reqres.in/api/unknown
 
+
+# Load the JMeter Script
+
+File > Open (CTRL + O)
+
+Locate the "Practice1.jmx" file contained on this repo
+
+The Test Plan will be loaded
+
